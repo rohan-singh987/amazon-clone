@@ -56,6 +56,12 @@
 }
 
 
+.header_basketcount{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
 .header_nav{
     display: flex;
     justify-content: space-evenly;
