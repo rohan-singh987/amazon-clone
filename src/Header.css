@@ -50,6 +50,11 @@
     font-weight: 800;
 }
 
+.header_optionBasket{
+    display: flex;
+    align-items: center;
+}
+
 
 .header_nav{
     display: flex;
